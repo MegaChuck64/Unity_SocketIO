@@ -10,11 +10,15 @@ public class network : MonoBehaviour
 
     public GameObject playerPrefab;
 
+    Dictionary<string, GameObject> players;
+
     void Start()
     {
         socket = GetComponent<SocketIOComponent>();
         socket.On("open", OnConnected);
         socket.On("spawn player", OnSpawn);
+        socket.On("disconnected", OnDisconnected);
+        players = new Dictionary<string, GameObject>();
     }
 
     void OnConnected(SocketIOEvent e)
@@ -28,6 +32,23 @@ public class network : MonoBehaviour
     void OnSpawn(SocketIOEvent e)
     {
         Debug.Log("Player spawned.");
-        Instantiate(playerPrefab);
+        var player = Instantiate(playerPrefab);
+        Material mat = new Material(player.GetComponent<Renderer>().material);
+        mat.color = Random.ColorHSV();
+        player.GetComponent<Renderer>().material = mat;
+        players.Add(e.data["id"].ToString(), player);
+        Debug.Log("count: " + players.Count);
+    }
+
+    void OnDisconnected(SocketIOEvent e)
+    {
+        Debug.Log("Player disconnected: " + e.data);
+
+        var id = e.data["id"].ToString();
+
+        var player = players[id];
+
+        Destroy(player);
+        players.Remove(id);
     }
 }

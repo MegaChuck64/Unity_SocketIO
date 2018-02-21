@@ -1,0 +1,207 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M4000 (ID=0x13f1)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7735
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.015 seconds
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.199729 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4bdd4 -> priority: 1 
+  Thread -> id: 4c5d4 -> priority: 1 
+  Thread -> id: 484b4 -> priority: 1 
+  Thread -> id: 4fad4 -> priority: 1 
+We are connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We are connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player spawned.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M4000 (ID=0x13f1)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7735
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.016 seconds
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.913392 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4b1c0 -> priority: 1 
+  Thread -> id: 4539c -> priority: 1 
+  Thread -> id: 4ffd8 -> priority: 1 
+  Thread -> id: 4ecc8 -> priority: 1 
+Player spawned.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We are connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We are connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player spawned.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player spawned.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M4000 (ID=0x13f1)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7735
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.016 seconds
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\001404569\Desktop\SocketIOProject\Unity_SocketIO\socketIOProject\SocketIOProject\test_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.982498 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 502a8 -> priority: 1 
+  Thread -> id: 502ac -> priority: 1 
+  Thread -> id: 502a4 -> priority: 1 
+  Thread -> id: 502b0 -> priority: 1 
+Player spawned.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We are connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We are connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player spawned.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player spawned.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player spawned.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player spawned.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player disconnected: {"id":"HJx-7Eovz"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player disconnected: {"id":"HJx-7Eovz"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player disconnected: {"id":"SJ8z7EjPf"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
