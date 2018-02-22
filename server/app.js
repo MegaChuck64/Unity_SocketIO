@@ -30,10 +30,12 @@ io.on('connection',
 		);
 
 		
-		socket.on('playerhere',
+		socket.on('move',
 			function(data)
 			{
-				console.log("Player is logged in.");
+			    data.id = thisPlayerId;
+			    console.log("Player is logged in.", JSON.stringify(data));
+			    socket.broadcast.emit('move', data);
 			}
 		);
 		
