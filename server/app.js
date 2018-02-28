@@ -34,7 +34,7 @@ io.on('connection',
 			function(data)
 			{
 			    data.id = thisPlayerId;
-			    console.log("Player is logged in.", JSON.stringify(data));
+			    console.log("Player position is: ", JSON.stringify(data));
 			    socket.broadcast.emit('move', data);
 			}
 		);

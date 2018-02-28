@@ -4,7 +4,7 @@ using UnityEngine;
 using SocketIO;
 
 
-public class network : MonoBehaviour
+public class Network : MonoBehaviour
 {
     static SocketIOComponent socket;
 
@@ -53,14 +53,20 @@ public class network : MonoBehaviour
     void OnMove(SocketIOEvent e)
     {
        Debug.Log("Networked player is moving " + e.data);
+
+
         var id = e.data["id"].ToString();
         var player = players[id];
+
+
         var pos = new Vector3(GetFloatFromJson(e.data, "x"), 0, GetFloatFromJson(e.data, "y"));
+        var h = GetFloatFromJson(e.data, "h");
+        var v = GetFloatFromJson(e.data, "v");
         Debug.Log("pos: " + pos);
 
         var netMove = player.GetComponent<CharacterMovement>();
            
-        netMove.NetworkMovement(pos);
+        netMove.NetworkMovement(pos, h, v);
 
         
     }
