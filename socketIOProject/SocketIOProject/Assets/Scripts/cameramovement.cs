@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class cameramovement : MonoBehaviour
+public class CameraMovement : MonoBehaviour
 {
     public float speed;
     float currentSpeed;
